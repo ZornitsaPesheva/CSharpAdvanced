@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Reverse Strings\bin\Debug\Reverse Strings.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Reverse Strings\bin\Debug\Reverse Strings.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Reverse Strings\bin\Debug\Reverse Strings.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Reverse Strings\obj\Debug\Reverse Strings.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Reverse Strings\obj\Debug\Reverse Strings.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Reverse Strings\obj\Debug\Reverse Strings.pdb

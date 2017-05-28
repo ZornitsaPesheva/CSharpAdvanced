@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\1. Reverse Numbers with a Stack\obj\Debug\1. Reverse Numbers with a Stack.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\1. Reverse Numbers with a Stack\bin\Debug\_1.Reverse_Numbers_with_a_Stack.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\1. Reverse Numbers with a Stack\bin\Debug\_1.Reverse_Numbers_with_a_Stack.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\1. Reverse Numbers with a Stack\bin\Debug\_1.Reverse_Numbers_with_a_Stack.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\1. Reverse Numbers with a Stack\obj\Debug\_1.Reverse_Numbers_with_a_Stack.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\1. Reverse Numbers with a Stack\obj\Debug\_1.Reverse_Numbers_with_a_Stack.pdb

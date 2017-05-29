@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache

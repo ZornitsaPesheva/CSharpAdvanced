@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Hot Potato\bin\Debug\Hot Potato.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Hot Potato\bin\Debug\Hot Potato.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Hot Potato\bin\Debug\Hot Potato.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Hot Potato\obj\Debug\Hot Potato.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Hot Potato\obj\Debug\Hot Potato.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Hot Potato\obj\Debug\Hot Potato.pdb

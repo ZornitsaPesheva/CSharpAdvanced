@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Matching Brackets\obj\Debug\Matching Brackets.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Matching Brackets\bin\Debug\Matching Brackets.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Matching Brackets\bin\Debug\Matching Brackets.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Matching Brackets\bin\Debug\Matching Brackets.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Matching Brackets\obj\Debug\Matching Brackets.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Matching Brackets\obj\Debug\Matching Brackets.pdb

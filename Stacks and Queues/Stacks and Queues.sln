@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Reverse Numbers with a Stack", "1. Reverse Numbers with a Stack\1. Reverse Numbers with a Stack.csproj", "{13B18DA3-63BB-4CE4-8CD9-C213464F8B2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Basic Stack Operations", "2. Basic Stack Operations\2. Basic Stack Operations.csproj", "{BE679A79-042B-4BE5-9AEA-2732567FF64A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{13B18DA3-63BB-4CE4-8CD9-C213464F8B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13B18DA3-63BB-4CE4-8CD9-C213464F8B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13B18DA3-63BB-4CE4-8CD9-C213464F8B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE679A79-042B-4BE5-9AEA-2732567FF64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE679A79-042B-4BE5-9AEA-2732567FF64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE679A79-042B-4BE5-9AEA-2732567FF64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE679A79-042B-4BE5-9AEA-2732567FF64A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

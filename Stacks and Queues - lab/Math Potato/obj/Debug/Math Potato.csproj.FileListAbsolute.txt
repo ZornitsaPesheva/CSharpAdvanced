@@ -1,0 +1,5 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Math Potato\bin\Debug\Math Potato.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Math Potato\bin\Debug\Math Potato.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Math Potato\bin\Debug\Math Potato.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Math Potato\obj\Debug\Math Potato.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues - lab\Math Potato\obj\Debug\Math Potato.pdb

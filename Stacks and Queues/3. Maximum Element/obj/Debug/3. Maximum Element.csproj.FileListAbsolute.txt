@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\3. Maximum Element\bin\Debug\_3.Maximum_Element.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\3. Maximum Element\bin\Debug\_3.Maximum_Element.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\3. Maximum Element\bin\Debug\_3.Maximum_Element.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\3. Maximum Element\obj\Debug\3. Maximum Element.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\3. Maximum Element\obj\Debug\_3.Maximum_Element.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\3. Maximum Element\obj\Debug\_3.Maximum_Element.pdb

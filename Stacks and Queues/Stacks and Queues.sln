@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Reverse Numbers with a S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Basic Stack Operations", "2. Basic Stack Operations\2. Basic Stack Operations.csproj", "{BE679A79-042B-4BE5-9AEA-2732567FF64A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Maximum Element", "3. Maximum Element\3. Maximum Element.csproj", "{38738191-31AD-4C1D-9B08-E602CAACCFE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BE679A79-042B-4BE5-9AEA-2732567FF64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE679A79-042B-4BE5-9AEA-2732567FF64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE679A79-042B-4BE5-9AEA-2732567FF64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38738191-31AD-4C1D-9B08-E602CAACCFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38738191-31AD-4C1D-9B08-E602CAACCFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38738191-31AD-4C1D-9B08-E602CAACCFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38738191-31AD-4C1D-9B08-E602CAACCFE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

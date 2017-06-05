@@ -1,0 +1,5 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\7. Balanced Parenthesis\bin\Debug\_7.Balanced_Parenthesis.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\7. Balanced Parenthesis\bin\Debug\_7.Balanced_Parenthesis.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\7. Balanced Parenthesis\bin\Debug\_7.Balanced_Parenthesis.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\7. Balanced Parenthesis\obj\Debug\_7.Balanced_Parenthesis.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\7. Balanced Parenthesis\obj\Debug\_7.Balanced_Parenthesis.pdb

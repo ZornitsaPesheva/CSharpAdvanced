@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Basic Queue Operations",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Sequence with Queue", "5. Sequence with Queue\5. Sequence with Queue.csproj", "{5E766290-8E76-401B-B5EA-787AB79821EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Truck Tour", "6. Truck Tour\6. Truck Tour.csproj", "{DE7A0976-D49E-46F1-95A8-0492AAC87948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Balanced Parenthesis", "7. Balanced Parenthesis\7. Balanced Parenthesis.csproj", "{FFED4834-2319-44A3-B2A1-AD5EFE2CED79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5E766290-8E76-401B-B5EA-787AB79821EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E766290-8E76-401B-B5EA-787AB79821EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E766290-8E76-401B-B5EA-787AB79821EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7A0976-D49E-46F1-95A8-0492AAC87948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7A0976-D49E-46F1-95A8-0492AAC87948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7A0976-D49E-46F1-95A8-0492AAC87948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7A0976-D49E-46F1-95A8-0492AAC87948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFED4834-2319-44A3-B2A1-AD5EFE2CED79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFED4834-2319-44A3-B2A1-AD5EFE2CED79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFED4834-2319-44A3-B2A1-AD5EFE2CED79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFED4834-2319-44A3-B2A1-AD5EFE2CED79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\6. Truck Tour\bin\Debug\_6.Truck_Tour.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\6. Truck Tour\bin\Debug\_6.Truck_Tour.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\6. Truck Tour\bin\Debug\_6.Truck_Tour.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\6. Truck Tour\obj\Debug\6. Truck Tour.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\6. Truck Tour\obj\Debug\_6.Truck_Tour.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\6. Truck Tour\obj\Debug\_6.Truck_Tour.pdb

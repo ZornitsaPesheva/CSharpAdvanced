@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\5. Sequence with Queue\bin\Debug\_5.Sequence_with_Queue.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\5. Sequence with Queue\bin\Debug\_5.Sequence_with_Queue.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\5. Sequence with Queue\bin\Debug\_5.Sequence_with_Queue.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\5. Sequence with Queue\obj\Debug\_5.Sequence_with_Queue.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\5. Sequence with Queue\obj\Debug\_5.Sequence_with_Queue.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\5. Sequence with Queue\obj\Debug\5. Sequence with Queue.csprojResolveAssemblyReference.cache

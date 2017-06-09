@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\8. Recursive Fibonacci\obj\Debug\8. Recursive Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\8. Recursive Fibonacci\bin\Debug\_8.Recursive_Fibonacci.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\8. Recursive Fibonacci\bin\Debug\_8.Recursive_Fibonacci.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\8. Recursive Fibonacci\bin\Debug\_8.Recursive_Fibonacci.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\8. Recursive Fibonacci\obj\Debug\_8.Recursive_Fibonacci.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\8. Recursive Fibonacci\obj\Debug\_8.Recursive_Fibonacci.pdb

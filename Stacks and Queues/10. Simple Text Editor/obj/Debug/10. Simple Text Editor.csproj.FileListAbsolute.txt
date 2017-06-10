@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\10. Simple Text Editor\bin\Debug\_10.Simple_Text_Editor.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\10. Simple Text Editor\bin\Debug\_10.Simple_Text_Editor.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\10. Simple Text Editor\bin\Debug\_10.Simple_Text_Editor.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\10. Simple Text Editor\obj\Debug\10. Simple Text Editor.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\10. Simple Text Editor\obj\Debug\_10.Simple_Text_Editor.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\10. Simple Text Editor\obj\Debug\_10.Simple_Text_Editor.pdb

@@ -9,7 +9,7 @@ namespace _9.Stack_Fibonacci
         {
             long nthNumber = long.Parse(Console.ReadLine());
             Stack<long> stack = new Stack<long>();
-            stack.Push(0);
+            stack.Push(1);
             stack.Push(1);
 
             if (nthNumber == 1)

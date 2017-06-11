@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\11. Poisonous Plants\bin\Debug\_11.Poisonous_Plants.exe.config
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\11. Poisonous Plants\bin\Debug\_11.Poisonous_Plants.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\11. Poisonous Plants\bin\Debug\_11.Poisonous_Plants.pdb
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\11. Poisonous Plants\obj\Debug\11. Poisonous Plants.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\11. Poisonous Plants\obj\Debug\_11.Poisonous_Plants.exe
+C:\Users\zorry\Documents\C# Advanced\Stacks and Queues\11. Poisonous Plants\obj\Debug\_11.Poisonous_Plants.pdb

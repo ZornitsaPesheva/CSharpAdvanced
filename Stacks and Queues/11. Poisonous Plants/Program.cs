@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+// https://softuni.bg/trainings/resources/video/15138/video-screen-28-may-2017-valentin-dimitrov-csharp-advanced-may-2017
 namespace _11.Poisonous_Plants
 {
     class Program

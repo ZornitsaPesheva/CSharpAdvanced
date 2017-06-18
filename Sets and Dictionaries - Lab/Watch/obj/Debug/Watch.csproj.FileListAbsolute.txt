@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\Watch\bin\Debug\Watch.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\Watch\bin\Debug\Watch.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\Watch\bin\Debug\Watch.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\Watch\obj\Debug\Watch.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\Watch\obj\Debug\Watch.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\Watch\obj\Debug\Watch.pdb

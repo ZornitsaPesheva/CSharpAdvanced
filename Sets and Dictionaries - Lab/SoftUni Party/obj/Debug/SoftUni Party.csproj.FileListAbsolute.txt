@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\SoftUni Party\bin\Debug\SoftUni Party.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\SoftUni Party\bin\Debug\SoftUni Party.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\SoftUni Party\bin\Debug\SoftUni Party.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\SoftUni Party\obj\Debug\SoftUni Party.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\SoftUni Party\obj\Debug\SoftUni Party.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Lab\SoftUni Party\obj\Debug\SoftUni Party.pdb

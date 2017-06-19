@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watch", "Watch\Watch.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni Party", "SoftUni Party\SoftUni Party.csproj", "{C75C66BB-B37E-471D-8F70-35F7ECA7E137}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Same Values In Array", "Count Same Values In Array\Count Same Values In Array.csproj", "{42353C34-16AF-4D1A-8472-1546AE44C23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academy Graduation", "Academy Graduation\Academy Graduation.csproj", "{C044D4F7-15DD-409D-A56E-B060299B77AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{C75C66BB-B37E-471D-8F70-35F7ECA7E137}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C75C66BB-B37E-471D-8F70-35F7ECA7E137}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C75C66BB-B37E-471D-8F70-35F7ECA7E137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42353C34-16AF-4D1A-8472-1546AE44C23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42353C34-16AF-4D1A-8472-1546AE44C23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42353C34-16AF-4D1A-8472-1546AE44C23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42353C34-16AF-4D1A-8472-1546AE44C23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C044D4F7-15DD-409D-A56E-B060299B77AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C044D4F7-15DD-409D-A56E-B060299B77AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C044D4F7-15DD-409D-A56E-B060299B77AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C044D4F7-15DD-409D-A56E-B060299B77AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

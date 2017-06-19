@@ -7,7 +7,7 @@
     <ProjectGuid>{C044D4F7-15DD-409D-A56E-B060299B77AB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Academy_Graduation</RootNamespace>
-    <AssemblyName>Academy_Graduation</AssemblyName>
+    <AssemblyName>Academy Graduation</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -7,7 +7,7 @@
     <ProjectGuid>{42353C34-16AF-4D1A-8472-1546AE44C23B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Count_Same_Values_In_Array</RootNamespace>
-    <AssemblyName>Count_Same_Values_In_Array</AssemblyName>
+    <AssemblyName>Count Same Values In Array</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

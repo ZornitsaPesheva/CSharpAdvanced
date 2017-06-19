@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\01. Unique Usernames\bin\Debug\_01.Unique_Usernames.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\01. Unique Usernames\bin\Debug\_01.Unique_Usernames.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\01. Unique Usernames\bin\Debug\_01.Unique_Usernames.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\01. Unique Usernames\obj\Debug\01. Unique Usernames.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\01. Unique Usernames\obj\Debug\_01.Unique_Usernames.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\01. Unique Usernames\obj\Debug\_01.Unique_Usernames.pdb

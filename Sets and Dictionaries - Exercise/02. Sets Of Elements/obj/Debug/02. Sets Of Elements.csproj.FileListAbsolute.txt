@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\obj\Debug\02. Sets Of Elements.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\obj\Debug\_02.Sets_Of_Elements.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\02. Sets Of Elements\obj\Debug\_02.Sets_Of_Elements.pdb

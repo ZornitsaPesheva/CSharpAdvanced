@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\obj\Debug\08. Hands of Cards.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\bin\Debug\_08.Hands_of_Cards.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\obj\Debug\_08.Hands_of_Cards.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\08. Hands of Cards\obj\Debug\_08.Hands_of_Cards.pdb

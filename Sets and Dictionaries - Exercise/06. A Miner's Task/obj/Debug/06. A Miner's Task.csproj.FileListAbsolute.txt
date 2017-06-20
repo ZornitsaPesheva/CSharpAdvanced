@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\obj\Debug\06. A Miner's Task.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\obj\Debug\_06.A_Miner_s_Task.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\06. A Miner's Task\obj\Debug\_06.A_Miner_s_Task.pdb

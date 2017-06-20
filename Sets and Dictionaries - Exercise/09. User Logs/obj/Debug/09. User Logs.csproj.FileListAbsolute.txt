@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\09. User Logs\bin\Debug\_09.User_Logs.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\09. User Logs\bin\Debug\_09.User_Logs.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\09. User Logs\bin\Debug\_09.User_Logs.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\09. User Logs\obj\Debug\09. User Logs.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\09. User Logs\obj\Debug\_09.User_Logs.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\09. User Logs\obj\Debug\_09.User_Logs.pdb

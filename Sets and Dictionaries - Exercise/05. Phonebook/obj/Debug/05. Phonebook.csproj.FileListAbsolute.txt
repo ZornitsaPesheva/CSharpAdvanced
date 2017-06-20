@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\05. Phonebook\obj\Debug\05. Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\05. Phonebook\bin\Debug\_05.Phonebook.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\05. Phonebook\bin\Debug\_05.Phonebook.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\05. Phonebook\bin\Debug\_05.Phonebook.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\05. Phonebook\obj\Debug\_05.Phonebook.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\05. Phonebook\obj\Debug\_05.Phonebook.pdb

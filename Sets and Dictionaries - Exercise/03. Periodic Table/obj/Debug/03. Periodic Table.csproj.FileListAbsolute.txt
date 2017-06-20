@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\obj\Debug\03. Periodic Table.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.pdb

@@ -1,0 +1,5 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\07. Fix Emails\bin\Debug\_07.Fix_Emails.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\07. Fix Emails\bin\Debug\_07.Fix_Emails.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\07. Fix Emails\bin\Debug\_07.Fix_Emails.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\07. Fix Emails\obj\Debug\_07.Fix_Emails.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\07. Fix Emails\obj\Debug\_07.Fix_Emails.pdb

@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\obj\Debug\04. Count Symbols.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\obj\Debug\_04.Count_Symbols.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\04. Count Symbols\obj\Debug\_04.Count_Symbols.pdb

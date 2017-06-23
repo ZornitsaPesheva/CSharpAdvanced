@@ -9,50 +9,45 @@ namespace _09.User_Logs
         {
             string input = Console.ReadLine();
 
-            SortedDictionary<string, HashSet<string>> ips = new SortedDictionary<string, HashSet<string>>();
-            Dictionary<string, int> msgs = new Dictionary<string, int>();
+            SortedDictionary<string, Dictionary<string, int>> dict = 
+                new SortedDictionary<string, Dictionary<string, int>>();
             
             while (input != "end")
             {
                 string[] param = input.Split(' ');
 
                 string ip = (param[0].Split('='))[1];
-              //  string message = (param[1].Split('='))[1];
                 string user = (param[2].Split('='))[1];
 
-                if (!ips.ContainsKey(user))
+                if (!dict.ContainsKey(user))
                 {
-                    HashSet<string> ipsList = new HashSet<string>();
-                    ipsList.Add(ip);
-                    ips.Add(user, ipsList);
+                    Dictionary<string, int> ipsDict = new Dictionary<string, int>();
+                    ipsDict.Add(ip, 1);
+                    dict.Add(user, ipsDict);
                 }
-                else
+                else if (!dict[user].ContainsKey(ip))
                 {
-                    ips[user].Add(ip);                  
+                    dict[user].Add(ip, 1);
                 }
 
-                if (!msgs.ContainsKey(ip))
-                {
-                    msgs.Add(ip, 1);
-                }
                 else
                 {
-                    msgs[ip]++;
+                    dict[user][ip]++;
                 }
+
 
                 input = Console.ReadLine();
             }
 
-            foreach (var usr in ips)
+            foreach (var usr in dict)
             {
                 Console.WriteLine(usr.Key + ":");
-
+                
                 HashSet<string> result = new HashSet<string>();
 
                 foreach (var uip in usr.Value)
                 {
-                    result.Add(uip + " => " + msgs[uip]);
-                    // Console.WriteLine($"{uip} => {msgs[uip]},");
+                    result.Add(uip.Key + " => " + uip.Value);
                 }
 
                 Console.WriteLine(string.Join(", ", result) + ".");

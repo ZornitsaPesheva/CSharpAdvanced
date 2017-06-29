@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\11. Logs Aggregator\obj\Debug\11. Logs Aggregator.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\11. Logs Aggregator\bin\Debug\_11.Logs_Aggregator.exe.config
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\11. Logs Aggregator\bin\Debug\_11.Logs_Aggregator.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\11. Logs Aggregator\bin\Debug\_11.Logs_Aggregator.pdb
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\11. Logs Aggregator\obj\Debug\_11.Logs_Aggregator.exe
+C:\Users\zorry\Documents\C# Advanced\Sets and Dictionaries - Exercise\11. Logs Aggregator\obj\Debug\_11.Logs_Aggregator.pdb
